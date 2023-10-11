@@ -11,7 +11,7 @@
         Mi nombre es Esteban y soy desarrollador web. 
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7008B&random=false&width=435&lines=Los+buenos+programadores+programan;no+porque+esperen+que+les+paguen;+o+la+adulaci%C3%B3n+del+p%C3%BAblico;sino+porque+es+divertido+programar">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F7008B&center=true&random=false&width=435&lines=Los+buenos+programadores+programan;no+porque+esperen+que+les+paguen;+o+la+adulaci%C3%B3n+del+p%C3%BAblico;sino+porque+es+divertido+programar">
       <br>
       <b>
         ~ Esteban Gonzalez ~
