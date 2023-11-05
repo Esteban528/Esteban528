@@ -11,7 +11,7 @@
         Mi nombre es Esteban y soy desarrollador web. 
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EE6&random=false&width=435&lines=Programming+is+wonderful">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EE6&center=true&vCenter=true&random=false&width=435&lines=Programming+is+wonderful">
       <br>
       <b>
         ~ Esteban Gonzalez ~
