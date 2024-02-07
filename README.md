@@ -24,9 +24,10 @@
 <br>
 
 <div align="center">
-   <samp><b>[ Habilidades ]</b></samp>
+   <samp><b>[ Backend ]</b></samp>
    <div align="center">
        <image width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+       <image width="30" src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
    </div> 
 </div>
 
