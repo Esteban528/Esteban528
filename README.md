@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-   <h1 align="center">[ Habilidades ]</h1>
+   <samp><b>[ Habilidades ]</b></samp>
    <a style="">
     
    </a> 
