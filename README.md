@@ -26,11 +26,43 @@
 <div align="center">
    <samp><b>[ Backend ]</b></samp>
    <div align="center">
-       <image width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-       <image width="30" src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
-       <image width="30" style="background: white; border-radius: 15px;" src="https://cdn-icons-png.freepik.com/512/7506/7506880.png">
+       <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+       <image width="30"
+       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
+       <image width="30"
+       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.freepik.com/512/4248/4248443.png">
+      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
+       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
    </div> 
 </div>
+<div align="center">
+   <samp><b>[ Frontend ]</b></samp>
+   <div align="center">
+       <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+       <image width="30"
+       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
+       <image width="30"
+       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png">
+       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png">
+   </div> 
+</div>
+<div align="center">
+   <samp><b>[ Others ]</b></samp>
+   <div align="center">
+       <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
+       <image width="30"
+       style="background-color: #fff; border-radius: 5px; padding:2px;"src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
+       <image width="30"
+       style="background-color: #fff; border-radius: 5px; padding:2px;"src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nixos_logo_icon_170910.png">
+      <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
+       
+   </div> 
+</div>
+
+
 
 <details>
 <summary><samp><b>Más información</b></samp></summary>
@@ -76,3 +108,4 @@
 
 </details>
 </div>
+
