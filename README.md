@@ -28,7 +28,7 @@
    <div align="center">
        <image width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
        <image width="30" src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
-       <image width="30" src="https://cdn-icons-png.freepik.com/512/7506/7506880.png">
+       <image width="30" style="background: white; border-radius: 15px;" src="https://cdn-icons-png.freepik.com/512/7506/7506880.png">
    </div> 
 </div>
 
