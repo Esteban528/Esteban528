@@ -23,6 +23,13 @@
 
 <br>
 
+<div align="center">
+   <h1 align="center">[ Habilidades ]</h1>
+   <a style="">
+    
+   </a> 
+</div>
+
 <details>
 <summary><samp><b>Más información</b></samp></summary>
 
