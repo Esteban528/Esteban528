@@ -26,7 +26,7 @@
 <div align="center">
    <samp><b>[ Habilidades ]</b></samp>
    <a style="border: 3px solid white; padding: 4px">
-   <image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fjava_226777&psig=AOvVaw35at7iWb6sxaes8cNRlSTR&ust=1707430020456000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCFm9GemoQDFQAAAAAdAAAAABAE">
+   <image src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
     
    </a> 
 </div>
