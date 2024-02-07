@@ -36,6 +36,7 @@
        <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
    </div> 
 </div>
+<br> <br>
 <div align="center">
    <samp><b>[ Frontend ]</b></samp>
    <div align="center">
@@ -49,8 +50,10 @@
        <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png">
    </div> 
 </div>
+
+<br> <br>
 <div align="center">
-   <samp><b>[ Others ]</b></samp>
+   <samp><b>[ SO ]</b></samp>
    <div align="center">
        <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
        <image width="30"
