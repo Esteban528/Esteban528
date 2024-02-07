@@ -12,7 +12,7 @@
       </b>
       <br>
         <!-- <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EE6&center=true&vCenter=true&random=false&width=435&lines=Programming+is+wonderful"> -->
-        ![]('https://readme-typing-svg.demolab.com?font=Fira+Code+Nerdfont&weight=700&pause=1000&color=0EDAF7&center=true&random=false&width=435&lines=I+want+code+the+world') 
+        ![](https://readme-typing-svg.demolab.com?font=Fira+Code+Nerdfont&weight=700&pause=1000&color=0EDAF7&center=true&random=false&width=435&lines=I+want+code+the+world) 
       <br>
       <b>
         ~ Esteban Gonzalez ~
