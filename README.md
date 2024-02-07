@@ -1,6 +1,6 @@
 <!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
-<image src="https://media1.tenor.com/m/fRAPQY7lPukAAAAC/computer-code.gif">
+<image align="center" width="100" src="https://media1.tenor.com/m/fRAPQY7lPukAAAAC/computer-code.gif">
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
