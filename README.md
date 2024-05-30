@@ -11,7 +11,7 @@
         Mi nombre es Esteban y soy desarrollador web. 
       </b>
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code+Nerdfont&weight=700&pause=1000&color=0EDAF7&center=true&random=false&width=435&lines=I+want+code+the+world">
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
         <!-- ![]()  -->
       <br>
       <b>
