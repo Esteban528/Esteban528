@@ -1,117 +1,96 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
-<image align="center" width="100%" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+  <img align="center" width="100%" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
+  
+  <!-- Profile -->
   <p align="center">
     <samp>
-      <b>
-        Hola! 
       <br>
-        Mi nombre es Esteban y soy desarrollador web. 
-      </b>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Yes%2C+I+enjoy+programming">
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
-        <!-- ![]()  -->
-      <br>
-      <b>
-        ~ Esteban Gonzalez ~
-      </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+  <hr>
 
-<br>
+  <br>
 
-<div align="center">
-   <samp><b>[ Backend ]</b></samp>
-   <div align="center">
-       <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.freepik.com/512/4248/4248443.png">
-      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
-   </div> 
+  <div align="center">
+    <samp><b>[ Sobre mí ]</b></samp>
+    <br>
+    <samp>
+      Hola, soy Esteban Gonzalez y soy alguien apasionado por la tecnología y la programación. Soy un entusiasta de Linux por lo que disfruto mucho aprender sobre proyectos open source y personalizar mi entorno de escritorio y herramientas. Aunque mi lenguaje de programación favorito es Java, también tengo proyectos en otras tecnologías. Soy estudiante de ingeniería de software y tengo 2 años de experiencia haciendo código de manera autodidacta. ¡Me gusta muchísimo ayudar a las personas y darles consejos!
+    </samp>
+    <br><br>
+    <samp><b>[ Tecnologías de mercado ]</b></samp>
+    <br>
+    <div align="center">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    </div>
+    <br><br>
+    <samp><b>[ Hobbies ]</b></samp>
+    <br>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix">
+      <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+    </div>
+    <br><br>
+  </div>
+
+  <details>
+    <summary><samp><b>GitHub Stats</b></samp></summary>
+    <h2></h2><br>
+    <!-- Contact Me -->
+    <p align="center">
+      <samp>
+        Correo electrónico [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
+      </samp>
+    </p>
+    <h2></h2><br>
+    <!-- Profile Views Badge -->
+    <p align="center">
+      <samp>
+        <a href="#--------">
+          <img src="https://komarev.com/ghpvc/?username=Esteban528&label=Profile+Views&color=grey" alt="profile views">
+        </a>
+      </samp>
+    </p>
+    <!-- Github Trophy -->
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=Esteban528&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <!-- Github Stats -->
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban528&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord">
+            </a>
+          </td>
+          <td>
+            <a href="#--------">
+              <img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban528&layout=compact&line_height=21&hide_border=true&theme=nord">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
 </div>
-<br> <br>
-<div align="center">
-   <samp><b>[ Frontend ]</b></samp>
-   <div align="center">
-       <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png">
-   </div> 
-</div>
-
-<br> <br>
-<div align="center">
-   <samp><b>[ Others ]</b></samp>
-   <div align="center">
-       <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
-       <image width="30"
-       style="background-color: #fff; border-radius: 5px; padding:2px;"src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
-       <image width="30"
-       style="background-color: #fff; border-radius: 5px; padding:2px;"src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nixos_logo_icon_170910.png">
-      <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
-      <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Windows_10x_Icon.png/1024px-Windows_10x_Icon.png">
-      <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png">
-      <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
-    <image width="30" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_lua_icon_130410.png">
-   </div> 
-</div>
-
-
-
-<details>
-<summary><samp><b>Más información</b></samp></summary>
-
-<h2></h2><br>
-
-<!-- Contact Me -->
-<p align="center">
-  <samp>  
-    Correo electronico [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
-
-<!-- Profile Views Badge -->
-<p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=Esteban528&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
-</p>
-
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=Esteban528&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
-
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban528&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban528&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
-
-</details>
-</div>
-
