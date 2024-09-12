@@ -17,7 +17,7 @@
     <samp><b>[ Sobre mí ]</b></samp>
     <br>
     <samp>
-      Hola, soy Esteban Gonzalez y soy alguien apasionado por la tecnología y la programación. Soy un entusiasta de Linux por lo que disfruto mucho aprender sobre proyectos open source y personalizar mi entorno de escritorio y herramientas. Aunque mi lenguaje de programación favorito es Java, también tengo proyectos en otras tecnologías. Soy estudiante de ingeniería de software y tengo 2 años de experiencia haciendo código de manera autodidacta. ¡Me gusta muchísimo ayudar a las personas y darles consejos!
+      Hola, soy Esteban Gonzalez y soy alguien apasionado por la tecnología y la programación. Soy un entusiasta de Linux por lo que disfruto mucho aprender sobre proyectos open source y personalizar mi entorno de escritorio y herramientas. Aunque mi lenguaje de programación favorito es Java, también tengo proyectos en otras tecnologías. Soy estudiante de ingeniería de software y tengo más de 3 años de experiencia haciendo código de manera autodidacta. ¡Me gusta muchísimo ayudar a las personas y darles consejos!
     </samp>
     <br><br>
     <samp><b>[ Tecnologías de mercado ]</b></samp>
