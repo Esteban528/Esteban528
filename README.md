@@ -52,7 +52,7 @@
     <!-- Contact Me -->
     <p align="center">
       <samp>
-        Correo electrónico [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
+        Electronic mail [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
       </samp>
     </p>
     <h2></h2><br>
