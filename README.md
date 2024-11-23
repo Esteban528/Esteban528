@@ -14,13 +14,14 @@
   <br>
 
   <div align="center">
-    <samp><b>[ Sobre mí ]</b></samp>
+    <samp><b>[ About me ]</b></samp>
     <br>
     <samp>
-      Hola, soy Esteban Gonzalez y soy alguien apasionado por la tecnología y la programación. Soy un entusiasta de Linux por lo que disfruto mucho aprender sobre proyectos open source y personalizar mi entorno de escritorio y herramientas. Aunque mi lenguaje de programación favorito es Java, también tengo proyectos en otras tecnologías. Soy estudiante de ingeniería de software y tengo más de 3 años de experiencia haciendo código de manera autodidacta. ¡Me gusta muchísimo ayudar a las personas y darles consejos!
+            Hi there, I'm Esteban Gonzalez, maybe another software developer.
+            I have just over 3 years of experience coding and writing code. Although I’m full-stack, I’m particularly passionate about backend development. I’m all about terminal environments and working without GUIs. I've been a Linux distro enthusiast for a long time, and I’m deeply into the software ecosystem around it. I fully appreciate that with programming languages, you can make almost anything happen, and that’s what makes it so fascinating.
     </samp>
     <br><br>
-    <samp><b>[ Tecnologías de mercado ]</b></samp>
+    <samp><b>[ Business Technologies ]</b></samp>
     <br>
     <div align="center">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
