@@ -1,97 +1,111 @@
-<div align="justify">
-  <img align="center" width="100%" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
-  
-  <!-- Profile -->
-  <p align="center">
-    <samp>
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Yes%2C+I+enjoy+programming">
-      <br>
-    </samp>
-  </p>
-  <hr>
+<h1 align="center">Hi, I'm Esteban Gonzalez</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
-  <br>
+<p>
 
-  <div align="center">
-    <samp><b>[ About me ]</b></samp>
-    <br>
-    <samp>
-            Hi there, I'm Esteban Gonzalez, maybe another software developer.
-            I have just over 3 years of experience coding and writing code. Although I’m full-stack, I’m particularly passionate about backend development. I’m all about terminal environments and working without GUIs. I've been a Linux distro enthusiast for a long time, and I’m deeply into the software ecosystem around it. I fully appreciate that with programming languages, you can make almost anything happen, and that’s what makes it so fascinating.
-    </samp>
-    <br><br>
-    <samp><b>[ Business Technologies ]</b></samp>
-    <br>
-    <div align="center">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    </div>
-    <br><br>
-    <samp><b>[ Hobbies ]</b></samp>
-    <br>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix">
-      <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-    </div>
-    <br><br>
-  </div>
+<img src="https://i0.wp.com/cdn.midjourney.com/b404f594-7740-4da6-abb3-22e0a148ef83/0_2.png?fit=973%2C9999&ssl=1" alt="img" align="right" width="340px">
+<h3>About me</h3>
+<p align="left">
+I'm a Java developer specializing in backend and building server applications. I’ve been programming for 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
+</p>
 
-  <details>
-    <summary><samp><b>GitHub Stats</b></samp></summary>
-    <h2></h2><br>
-    <!-- Contact Me -->
-    <p align="center">
-      <samp>
-        Electronic mail [<a href="mailto:estebangonza2005@gmail.com">e-mail</a>]
-      </samp>
-    </p>
-    <h2></h2><br>
-    <!-- Profile Views Badge -->
-    <p align="center">
-      <samp>
-        <a href="#--------">
-          <img src="https://komarev.com/ghpvc/?username=Esteban528&label=Profile+Views&color=grey" alt="profile views">
-        </a>
-      </samp>
-    </p>
-    <!-- Github Trophy -->
-    <div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="#--------">
-              <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=Esteban528&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </div>
-    <!-- Github Stats -->
-    <div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="#--------">
-              <img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Esteban528&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord">
-            </a>
-          </td>
-          <td>
-            <a href="#--------">
-              <img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban528&layout=compact&line_height=21&hide_border=true&theme=nord">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </details>
+## Main stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+</p>
+
+### Other skills
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
 </div>
+
+
+#### Favorite tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" height="30" alt="tmux logo"  />
+  <img width="12" />
+  
+</p
+</p>
+
+<br>
+<br>
+<br>
+
+----
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban528" alt="esteban528" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div align="left">
+  <a href="https://www.linkedin.com/in/esteban-gonzalez-76393b26a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/613060502565814285" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+</p>
+
+
+## Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban528&show_icons=true&locale=en&layout=compact" alt="esteban528" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban528&show_icons=true&locale=en" alt="esteban528" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban528&" alt="esteban528" /></p>
