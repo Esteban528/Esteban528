@@ -4,12 +4,14 @@
 <p>
 
 <img src="https://i0.wp.com/cdn.midjourney.com/b404f594-7740-4da6-abb3-22e0a148ef83/0_2.png?fit=973%2C9999&ssl=1" alt="img" align="right" width="340px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
 <h3>About me</h3>
 <p align="left">
 I'm a Java developer specializing in backend and building server applications. I’ve been programming for 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
 </p>
 
-## Main stack
+
+### Main stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
@@ -77,16 +79,9 @@ I'm a Java developer specializing in backend and building server applications. I
   
 </p
 </p>
-
-<br>
-<br>
 <br>
 
-----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban528" alt="esteban528" /></a> </p>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -104,8 +99,13 @@ I'm a Java developer specializing in backend and building server applications. I
 
 ## Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban528&show_icons=true&locale=en&layout=compact" alt="esteban528" /></p>
+![](https://github-profile-trophy.vercel.app/?username=esteban528&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban528&show_icons=true&locale=en" alt="esteban528" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban528&" alt="esteban528" /></p>
+![](https://github-readme-stats.vercel.app/api?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=esteban528&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=esteban528&icon=0&color=9)](https://visitcount.itsvg.in)
+
