@@ -99,13 +99,11 @@ I'm a Java developer specializing in backend and building server applications. I
 
 ## Stats
 
-![](https://github-profile-trophy.vercel.app/?username=esteban528&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=esteban528&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esteban528&theme=dark&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-![](https://github-readme-stats.vercel.app/api?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=esteban528&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban528&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=esteban528&icon=0&color=9)](https://visitcount.itsvg.in)
 
