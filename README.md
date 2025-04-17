@@ -3,7 +3,7 @@
 
 <p>
 
-<img src="https://i0.wp.com/cdn.midjourney.com/b404f594-7740-4da6-abb3-22e0a148ef83/0_2.png?fit=973%2C9999&ssl=1" alt="img" align="right" width="340px">
+<img src="https://i.pinimg.com/originals/78/db/1c/78db1c4ab362ac38592cf91e614388ca.gif" alt="img" align="right" width="340px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
 <h3>About me</h3>
 <p align="left">
