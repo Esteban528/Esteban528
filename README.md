@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban528&label=Profile%20views&color=0e75b6&style=flat" alt="esteban528" /> </p>
 <h3>About me</h3>
 <p align="left">
-I'm a Java developer specializing in backend and building server applications. I’ve been programming for 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
+I'm a Java developer specializing in backend and building server applications. I’ve been programming for more than 4 years, and I do this because I love it—I genuinely enjoy sitting at my computer and creating solutions. I have a big passion for Linux systems and love exploring and making the most out of them. I also enjoy building my own tools and contributing to the community.
 </p>
 
 
