@@ -18,8 +18,6 @@ linux, docker, podman, K8s, Azure...
 
 ```
 
-https://codeberg.org/estebxn
-
 <details>
    <summary><samp><b>GitHub Stats</b></samp></summary>
 
