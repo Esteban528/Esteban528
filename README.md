@@ -4,3 +4,5 @@
 everything could be easier, everyone knows it but only a few understand
 ```
 <br>
+
+read my blog btw [estebandev.cc](https://estebandev.cc)
